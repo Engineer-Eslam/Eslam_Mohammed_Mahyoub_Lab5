@@ -1,0 +1,13 @@
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي lab5\إسلام محمد مهيوب المليكي lab5\bin\Debug\إسلام محمد مهيوب المليكي lab5.exe.config
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي lab5\إسلام محمد مهيوب المليكي lab5\bin\Debug\إسلام محمد مهيوب المليكي lab5.exe
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي lab5\إسلام محمد مهيوب المليكي lab5\bin\Debug\إسلام محمد مهيوب المليكي lab5.pdb
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي lab5\إسلام محمد مهيوب المليكي lab5\obj\Debug\إسلام محمد مهيوب المليكي lab5.csprojResolveAssemblyReference.cache
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي lab5\إسلام محمد مهيوب المليكي lab5\obj\Debug\إسلام_محمد_مهيوب_المليكي_lab5.Form1.resources
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي lab5\إسلام محمد مهيوب المليكي lab5\obj\Debug\إسلام_محمد_مهيوب_المليكي_lab5.Properties.Resources.resources
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي lab5\إسلام محمد مهيوب المليكي lab5\obj\Debug\إسلام محمد مهيوب المليكي lab5.csproj.GenerateResource.Cache
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي lab5\إسلام محمد مهيوب المليكي lab5\obj\Debug\إسلام محمد مهيوب المليكي lab5.exe
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي lab5\إسلام محمد مهيوب المليكي lab5\obj\Debug\إسلام محمد مهيوب المليكي lab5.pdb
+C:\Users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي lab5\إسلام محمد مهيوب المليكي lab5\obj\Debug\إسلام_محمد_مهيوب_المليكي_lab5.Form2.resources
+C:\Users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي lab5\إسلام محمد مهيوب المليكي lab5\obj\Debug\إسلام_محمد_مهيوب_المليكي_lab5.Form2_2.resources
+C:\Users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي lab5\إسلام محمد مهيوب المليكي lab5\obj\Debug\إسلام_محمد_مهيوب_المليكي_lab5.Form3.resources
+C:\Users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي lab5\إسلام محمد مهيوب المليكي lab5\obj\Debug\إسلام_محمد_مهيوب_المليكي_lab5.Form4.resources
